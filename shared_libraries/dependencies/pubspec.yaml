@@ -1,5 +1,6 @@
-name: depedencies
+name: dependencies
 description: A new Flutter module project.
+publish_to: none
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -97,5 +98,5 @@ flutter:
   # identifiers, which may be completely independent or the same as these.
   module:
     androidX: true
-    androidPackage: com.example.depedencies
-    iosBundleIdentifier: com.example.depedencies
+    androidPackage: com.example.dependencies
+    iosBundleIdentifier: com.example.dependencies

@@ -1,4 +1,4 @@
-# depedencies
+# dependencies
 
 A new Flutter module project.
 
