@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
+import 'injections/injections.dart';
 
-void main() {
-  runApp(const MyApp());
+void main() async {
+	WidgetsFlutterBinding.ensureInitialized();	
+  	// TODO: check flavor first, preprod or prod
+  	await Injections(apiBaseUrl: "https://dummyjson.com").initialize();
+  	runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
