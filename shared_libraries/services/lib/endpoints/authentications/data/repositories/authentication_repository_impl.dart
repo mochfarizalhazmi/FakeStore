@@ -30,15 +30,25 @@ class AuthenticationRepositoryImpl extends AuthenticationRepository {
 			if (response.data != null) {
 				final model = AuthenticationModel.fromJson(response.data!);
 				await sharedPreferences.setString(
-					EndpointConstants.tokenKey.authentication, 
+					EndpointConstants.tokenKey.authentication,
 					model.token
 				);
 				return Result.success(AuthenticationEntity.fromModel(model));
 			} else {
 				return Result.error(message: "Data not found");
 			}
-		} catch (e) {
-			return Result.error(message: "Failed to login");
+		} on DioError catch (e) {
+			if (e.response != null) {
+				// print(e.response?.data);
+				// print(e.response?.headers);
+				// print(e.response?.requestOptions);
+				return Result.error(message: "Failed to login");
+			} else {
+				// Something happened in setting up or sending the request that triggered an Error
+				// print(e.requestOptions);
+				// print(e.message);
+				return Result.error(message: "Failed to login");
+			}
 		}
 	}
 	
