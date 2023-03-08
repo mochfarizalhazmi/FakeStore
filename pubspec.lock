@@ -33,6 +33,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+  authentication:
+    dependency: "direct main"
+    description:
+      path: "features/authentication"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   boolean_selector:
     dependency: transitive
     description:
@@ -308,6 +315,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  go_router:
+    dependency: transitive
+    description:
+      name: go_router
+      sha256: b4bb06205ec607278b6fc23db238278417bca84a3905779cc68d1eb7afae37e2
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.2.0"
   hive:
     dependency: transitive
     description:
@@ -324,6 +339,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.13.5"
+  http_mock_adapter:
+    dependency: transitive
+    description:
+      name: http_mock_adapter
+      sha256: "0e7eaa5d77a273af1c2b5ec5066578faaa73039b63ccda5263c200756f24441a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.2"
   http_multi_server:
     dependency: transitive
     description:
@@ -564,6 +587,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.4"
+  product:
+    dependency: "direct main"
+    description:
+      path: "features/product"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   pub_semver:
     dependency: transitive
     description:
@@ -784,6 +814,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.20"
+  transaction:
+    dependency: "direct main"
+    description:
+      path: "features/transaction"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   typed_data:
     dependency: transitive
     description:

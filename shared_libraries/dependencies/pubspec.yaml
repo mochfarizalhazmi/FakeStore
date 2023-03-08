@@ -46,6 +46,9 @@ dependencies:
   flutter_svg: ^2.0.1
   cached_network_image: ^3.2.3
 
+  # Routing
+  go_router: ^6.2.0
+
   # Depedency Injection
   get_it: ^7.2.0
 

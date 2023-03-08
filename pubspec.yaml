@@ -47,6 +47,13 @@ dependencies:
   design_system:
     path: shared_libraries/design_system
 
+  authentication:
+    path: features/authentication
+  product:
+    path: features/product
+  transaction:
+    path: features/transaction
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

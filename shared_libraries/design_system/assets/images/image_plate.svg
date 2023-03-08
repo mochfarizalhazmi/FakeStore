@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="379px" height="385px" viewBox="0 0 379 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>image_plate</title>
+    <defs>
+        <circle id="path-1" cx="149.5" cy="149.5" r="149.5"></circle>
+    </defs>
+    <g id="-📱-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Walkthrough" transform="translate(4.000000, -54.000000)">
+            <g id="image_plate" transform="translate(-3.173088, 54.499082)">
+                <g id="illustration" transform="translate(188.768393, 192.196515) rotate(-16.000000) translate(-188.768393, -192.196515) translate(37.268393, 35.696515)">
+                    <circle id="Oval" fill="#22A45D" cx="235.407462" cy="307.771445" r="5"></circle>
+                    <circle id="Oval-Copy" fill="#22A45D" cx="60.4074616" cy="207.771445" r="5"></circle>
+                    <circle id="Oval-Copy-2" fill="#22A45D" cx="45.4074616" cy="101.771445" r="5"></circle>
+                    <circle id="Oval-Copy-3" fill="#22A45D" cx="260.407462" cy="43.7714455" r="5"></circle>
+                    <polygon id="Polygon-Copy-3" fill="#FFD841" points="53.9074616 65.7714455 60.4074616 72.2714455 53.9074616 78.7714455 47.4074616 72.2714455"></polygon>
+                    <polygon id="Polygon" fill="#FFD841" points="295.907462 59.7714455 302.407462 66.2714455 295.907462 72.7714455 289.407462 66.2714455"></polygon>
+                    <polygon id="Polygon-Copy" fill="#FFD841" points="248.907462 243.771445 255.407462 250.271445 248.907462 256.771445 242.407462 250.271445"></polygon>
+                    <polygon id="Polygon-Copy-2" fill="#FFD841" points="76.9074616 232.771445 83.4074616 239.271445 76.9074616 245.771445 70.4074616 239.271445"></polygon>
+                    <g id="plate" transform="translate(167.407462, 178.771445) rotate(-14.000000) translate(-167.407462, -178.771445) translate(119.407462, 149.771445)">
+                        <path d="M16.4,4 C15.6,4 14.8,4.8 14.8,5.6 L14.8,15 C14.8,16.2 13.8,17 12.8,17 C11.8,17 10.8,16 10.8,15 L10.8,5.6 C10.6,4.6 10,4 9,4 L8.8,4 C8,4 7.2,4.8 7.2,5.6 L7.2,15 C7.2,16.2 6.2,17 5.2,17 C4.2,17 3.2,16 3.2,15 L3.2,5.6 C3.2,4.8 2.4,4 1.6,4 C0.8,4 0,4.8 0,5.6 L0,15.2 C0,19 2.4,22.6 5.8,24 C4.6,30.2 1,51.4 6.2,56.4 C7.2,57.4 10.8,57.4 11.8,56.4 C17,51.4 13.4,30.2 12.2,24 C15.6,22.8 18,19.4 18,15.6 L18,5.6 C18,4.6 17.2,4 16.4,4 Z" id="Path" fill="#DCDCDC"></path>
+                        <path d="M4.2,34.6 C3.2,43 2.8,53 6.2,56.4 C7.2,57.4 10.8,57.4 11.8,56.4 C15.2,53 14.8,43 13.8,34.6 L4.2,34.6 L4.2,34.6 Z" id="Path" fill="#22A45D"></path>
+                        <path d="M87,0.8 C82,0.8 78,8 78,12.8 L78,14.6 C78,18.4 80.4,21.8 84,23 C83,28.2 78.8,51 84.2,56.4 C85.2,57.4 88.8,57.4 89.8,56.4 C95.2,51 91,28.2 90,23 C93.4,21.8 96,18.4 96,14.6 L96,12.8 C96,8 92,0.8 87,0.8 Z" id="Path" fill="#DCDCDC"></path>
+                        <path d="M82.2,34.6 C81.2,43 80.8,53 84.2,56.4 C85.2,57.4 88.8,57.4 89.8,56.4 C93.2,53 92.8,43 91.8,34.6 L82.2,34.6 L82.2,34.6 Z" id="Path" fill="#22A45D"></path>
+                        <circle id="Oval" fill="#FFD600" fill-rule="nonzero" cx="48" cy="29" r="28"></circle>
+                        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="48" cy="29" r="21"></circle>
+                        <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="87" cy="51.6" rx="1.8" ry="3.2"></ellipse>
+                        <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="9" cy="51.6" rx="1.8" ry="3.2"></ellipse>
+                    </g>
+                </g>
+                <g id="illustration" transform="translate(41.173088, 77.500918)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#DDF1E6" xlink:href="#path-1"></use>
+                    <g id="illustration-copy" mask="url(#mask-2)">
+                        <g transform="translate(165.774569, 134.701945) rotate(-16.000000) translate(-165.774569, -134.701945) translate(2.502473, -48.702591)">
+                            <path d="M25.7853725,80.6422714 C150.228924,-7.49983548 147.787565,106.406002 249.791478,63.9742708 C307.274738,40.0623035 348.176013,136.780238 311.151365,209.210538 C297.962648,235.011263 236.194837,238.059545 215.709442,258.900469 C191.654569,283.372822 204.352921,322.222437 162.673915,320.572751 C-14.1424328,313.574232 97.9161553,209.525652 36.5349945,171.458792 C-24.8461662,133.391933 8.95749545,93.3212112 25.7853725,80.6422714 Z" id="Path-2" fill="#FBFBFB" transform="translate(163.272097, 183.404537) rotate(80.000000) translate(-163.272097, -183.404537) "></path>
+                            <circle id="Oval" fill="#22A45D" cx="235.219025" cy="310.433761" r="5"></circle>
+                            <circle id="Oval-Copy" fill="#22A45D" cx="60.2190252" cy="210.433761" r="5"></circle>
+                            <circle id="Oval-Copy-2" fill="#22A45D" cx="45.2190252" cy="104.433761" r="5"></circle>
+                            <circle id="Oval-Copy-3" fill="#22A45D" cx="260.219025" cy="46.4337611" r="5"></circle>
+                            <polygon id="Polygon" fill="#FFD841" points="295.719025 62.4337611 302.219025 68.9337611 295.719025 75.4337611 289.219025 68.9337611"></polygon>
+                            <polygon id="Polygon-Copy" fill="#FFD841" points="248.719025 246.433761 255.219025 252.933761 248.719025 259.433761 242.219025 252.933761"></polygon>
+                            <polygon id="Polygon-Copy-2" fill="#FFD841" points="76.7190252 235.433761 83.2190252 241.933761 76.7190252 248.433761 70.2190252 241.933761"></polygon>
+                            <polygon id="Polygon-Copy-3" fill="#FFD841" points="53.7190252 68.4337611 60.2190252 74.9337611 53.7190252 81.4337611 47.2190252 74.9337611"></polygon>
+                            <g id="plate" stroke-width="1" fill="none" transform="translate(167.212977, 181.409504) rotate(-14.000000) translate(-167.212977, -181.409504) translate(119.212977, 153.234504)">
+                                <path d="M16.4,3.2 C15.6,3.2 14.8,4 14.8,4.8 L14.8,14.2 C14.8,15.4 13.8,16.2 12.8,16.2 C11.8,16.2 10.8,15.2 10.8,14.2 L10.8,4.8 C10.6,3.8 10,3.2 9,3.2 L8.8,3.2 C8,3.2 7.2,4 7.2,4.8 L7.2,14.2 C7.2,15.4 6.2,16.2 5.2,16.2 C4.2,16.2 3.2,15.2 3.2,14.2 L3.2,4.8 C3.2,4 2.4,3.2 1.6,3.2 C0.8,3.2 -2.27373675e-13,4 -2.27373675e-13,4.8 L-2.27373675e-13,14.4 C-2.27373675e-13,18.2 2.4,21.8 5.8,23.2 C4.6,29.4 1,50.6 6.2,55.6 C7.2,56.6 10.8,56.6 11.8,55.6 C17,50.6 13.4,29.4 12.2,23.2 C15.6,22 18,18.6 18,14.8 L18,4.8 C18,3.8 17.2,3.2 16.4,3.2 Z" id="Path" fill="#DCDCDC"></path>
+                                <path d="M4.2,33.8 C3.2,42.2 2.8,52.2 6.2,55.6 C7.2,56.6 10.8,56.6 11.8,55.6 C15.2,52.2 14.8,42.2 13.8,33.8 L4.2,33.8 L4.2,33.8 Z" id="Path" fill="#22A45D"></path>
+                                <path d="M87,4.35115877e-14 C82,4.35115877e-14 78,7.2 78,12 L78,13.8 C78,17.6 80.4,21 84,22.2 C83,27.4 78.8,50.2 84.2,55.6 C85.2,56.6 88.8,56.6 89.8,55.6 C95.2,50.2 91,27.4 90,22.2 C93.4,21 96,17.6 96,13.8 L96,12 C96,7.2 92,4.35115877e-14 87,4.35115877e-14 Z" id="Path" fill="#DCDCDC"></path>
+                                <path d="M82.2,33.8 C81.2,42.2 80.8,52.2 84.2,55.6 C85.2,56.6 88.8,56.6 89.8,55.6 C93.2,52.2 92.8,42.2 91.8,33.8 L82.2,33.8 L82.2,33.8 Z" id="Path" fill="#22A45D"></path>
+                                <circle id="Oval" fill="#FFD600" fill-rule="nonzero" cx="48" cy="28.2" r="28"></circle>
+                                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="48" cy="28.2" r="21"></circle>
+                                <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="87" cy="50.8" rx="1.8" ry="3.2"></ellipse>
+                                <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="9" cy="50.8" rx="1.8" ry="3.2"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

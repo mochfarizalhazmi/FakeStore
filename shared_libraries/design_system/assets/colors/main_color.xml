@@ -1,0 +1,11 @@
+<xml>
+    <color name="primary_color">#22A45D</color>
+    <color name="main_text_color">#010F07</color>
+    <color name="body_text_color">#868686</color>
+    <color name="input_color">#FBFBFB</color>
+		<color name="divider_inactive_color">#F3F2F2</color>
+		<color name="divider_active_color">#868686</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="accent_color">#EF9920</color>
+		<color name="error_color">#E02020</color>
+</xml>
